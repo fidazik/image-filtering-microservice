@@ -35,7 +35,7 @@ UserInterfaceState.xcuserstate
 node_modules
 venv/
 .env
-src/util/tmp/brew 
+src/util/tmp/
 cloud-cdnd-c2-final.postman_collection.json
 
 # Elastic Beanstalk Files
