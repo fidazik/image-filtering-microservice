@@ -36,7 +36,7 @@ node_modules
 venv/
 .env
 deployment_screenshots/
-src/util/tmp/
+src/util/tmp/brew 
 cloud-cdnd-c2-final.postman_collection.json
 
 # Elastic Beanstalk Files
